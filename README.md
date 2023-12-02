@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontend-mentor-todo-app-solution-zgRbnNA_3T)
 -   Live Site URL: [Add live site URL here](https://todo-app-abdirashid-dv.vercel.app/)
 
 ## My process
