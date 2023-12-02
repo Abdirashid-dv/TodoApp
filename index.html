@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <title>Frontend Mentor | Todo app</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <main class="main">
+
+    <div class="header">
+      <div class="header-logo">
+        <h1>TODO</h1>
+      </div>
+      <div class="theme_controler">
+        <img src="images/icon-sun.svg">
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="input-box">
+        <!-- onclick="AddItem()" -->
+        <button class="Add"></button>
+        <input type="text" placeholder="Create a new todo...">
+      </div>
+
+      <ul class="list-container">
+        <!-- <li class="checked">Hello</li> -->
+      </ul>
+
+      <div class="mob">
+        <div class="count">
+          <h1 class="items-left">0 items left</h1>
+        </div>
+        <div class="clear">
+          <button class="btn btn-clear">Clear Completed</br>
+        </div>
+      </div>
+
+      <div class="details">
+        <div class="count">
+          <h1 class="items-left normal">0 items left</h1>
+        </div>
+        <div class="middle-btns">
+          <button class="btn" autofocus>All</button>
+          <button class="btn">Active</button>
+          <button class="btn">Completed</button>
+        </div>
+        <div class="clear">
+          <button class="btn btn-clear">Clear Completed</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+
+
+  <!-- <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Your Name Here</a>.
+  </div> -->
+  <!-- jsDelivr :: Sortable :: Latest (https://www.jsdelivr.com/package/npm/sortablejs) -->
+  <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+  <script src="script.js"></script>
+
+</body>
+
+</html>
