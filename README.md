@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/frontend-mentor-todo-app-solution-zgRbnNA_3T)
+-   Live Site URL: [Live Site](https://todo-app-abdirashid-dv.vercel.app/)
 
 ## My process
 
@@ -77,6 +77,6 @@ i will continue building and solving frontend mentor challenges
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Abdirashid-dv](https://www.frontendmentor.io/profile/Abdirashid-dv)
+- Twitter - [@codewithreshid](https://twitter.com/codewithreshid)
+- LinkedIn - [@Abdirashid-Mowlid](https://www.linkedin.com/in/abdulrashid-mowlid-a1937915a/)
