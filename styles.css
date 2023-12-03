@@ -197,6 +197,13 @@ ul li.hidden {
     display: none;
 }
 
+.footer p {
+    text-align: center;
+    color: var(--Dark-Grayish-Blue);
+    font-size: small;
+    margin-top: 50px;
+}
+
 /* THEME */
 .backgroundToggle {
     background-image: url("./images/bg-desktop-light.jpg");
